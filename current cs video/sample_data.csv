@@ -1,0 +1,6 @@
+Employee_ID,Name,Age,Salary,Department
+1,John Smith,32,5000,HR
+2,Jane Doe,28,,Marketing
+3,Michael Johnson,35,5500,IT
+4,Sarah Thompson,,4500,Finance
+5,David Lee,40,6000,IT
